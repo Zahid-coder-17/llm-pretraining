@@ -1,0 +1,13 @@
+PROMPT: Hello, who are you?
+MARIA: the is, who of a of, and,,. of.:., and, of of for,.. of, or of,.,,, of,,,,, as, of,, or,. of.
+----------------------------------------
+PROMPT: What is the capital of France?
+MARIA: is. ⁇ ARIA M1,.. ⁇ ARGMAR,., ⁇ AR,,.- ⁇ AR ⁇ .are,,. and for.. of.,able. to. in..,./
+----------------------------------------
+PROMPT: import torch
+def add_numbers(a, b):
+MARIA:  ⁇ -e:e.m, ⁇ . ⁇ ARi. ⁇ ARAR ⁇ ARAR ⁇ AR- ⁇ ARAR ⁇ ARB ⁇ AR ⁇ AR ⁇ AR ⁇ R ⁇ AS ⁇  ⁇ . ⁇ AR ⁇  ⁇ A, ⁇  ⁇ 
+----------------------------------------
+PROMPT: الذكاء الاصطناعي هو
+MARIA:  ⁇ …D. ⁇ A. ⁇ AR. ⁇ .. ⁇ ... ⁇ .....S.. ⁇ ..--. ⁇ ... ⁇ .. to. ⁇ .... to ⁇ .. (.. ⁇ ..
+----------------------------------------

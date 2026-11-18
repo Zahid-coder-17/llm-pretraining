@@ -1,0 +1,14 @@
+PROMPT: Hello, who are you?
+BASE MODEL (500M): Hello, who are you?What about this book? ⁇ Bob: Sure, Alice! It's super cool. ⁇ Alice: That sounds great. But what if I told you there was something else? ⁇ Bob: You can probably ask me some questions about the book.
+----------------------------------------
+PROMPT: What is the capital of France?
+BASE MODEL (500M): What is the capital of France? ⁇ The most famous of these people, the Spanish, was the most famous of England, but was not the most popular of the time. ⁇ The great Roman Emperor the Great, who was the first king of England, was the founder of the Byzantine
+----------------------------------------
+PROMPT: import torch
+def add_numbers(a, b):
+BASE MODEL (500M): import torch
+def add_numbers(a, b): ⁇ return self.sort_func(self.func) == self.func(self.func) ⁇ ``` ⁇ The `__func`, `func`, and `self.func` functions are used to
+----------------------------------------
+PROMPT: الذكاء الاصطناعي هو
+BASE MODEL (500M): الذكاء الاصطناعي هومو ⁇ اران ⁇ ودنا ⁇  الال ⁇ ال ⁇ رو ⁇  ال ⁇ ل ⁇  ⁇ و ⁇  ال ⁇  س ⁇ اس ⁇ انا د 
+----------------------------------------

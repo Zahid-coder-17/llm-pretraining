@@ -1,0 +1,38 @@
+# PyTorch Checkpoints & Large Model Weights (>100MB)
+*.pt
+*.bin
+*.eer
+*.safetensors
+*.onnx
+checkpoints/
+checkpoints_*/
+**/checkpoints/
+**/checkpoints_*/
+Maria/checkpoints_original/
+
+# Dataset Binaries & Local Shards
+data/
+cache/
+.cache/
+hf_cache/
+hub/
+*.arrow
+
+# Python Caches & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+env/
+venv/
+.env
+
+# Logs & Temporary Runs
+*.log
+wandb/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

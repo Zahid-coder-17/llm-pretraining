@@ -1,0 +1,12 @@
+PROMPT: What is Machine Learning?
+MARIA:  ⁇ Have you ever had a journey through space, observing objects, or even interacting with the world? All these experiences can help us understand the world around us! ⁇ * **What is Machine Learning?** ⁇ Imagine if you could build a Lego structure using
+----------------------------------------
+PROMPT: In mathematics, a polygon is
+MARIA: a subset of a mathematical function that can be used to solve a problem, such as the number of functions, the number of parameters, and the number of variables. In the context of a polygon, a polygon is a set of parameters that
+----------------------------------------
+PROMPT: def hello_world():
+MARIA:  ⁇ self.assert_id = self.assert___equal(self.to_id) ⁇ self.assert_id] == self.assert_end ⁇ ``` ⁇ In this example, we have defined the `self.assert_
+----------------------------------------
+PROMPT: The capital of France is
+MARIA: the capital of the continent. ⁇ In Europe, the capital of the continent is seen as the capital of the world. ⁇ The capital of the world is called the "Soviet country." The capital is the capital of the world. It has no
+----------------------------------------
